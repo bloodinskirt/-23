@@ -23,3 +23,5 @@ void PrintArray(string[] array)
     Console.WriteLine();
 }
 
+SizeCheck(newArray1, newArray2);
+PrintArray(newArray2);
